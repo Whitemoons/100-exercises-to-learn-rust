@@ -1,7 +1,7 @@
 mod ticket {
     pub struct Ticket {
         pub title: String,
-        pub(crate) description: String,
+        pub description: String,
         pub(crate) status: String,
     }
 
