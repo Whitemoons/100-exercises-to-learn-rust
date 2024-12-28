@@ -31,7 +31,7 @@ pub mod ticket {
                 status,
             }
         }
-        
+
         pub fn title(self: Self) -> String {
             self.title
         }
